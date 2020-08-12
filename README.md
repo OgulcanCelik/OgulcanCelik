@@ -1,6 +1,6 @@
 ### Hi there, I'm Ogulcan 👋
 
-- 🔭 I’m currently working on a developing Machine Learning based real-time applications with Electron.js, Python, Redis and more
+- 🔭 I’m currently working on Machine Learning based real-time applications with Electron.js, Python, Redis and more
 - 🌱 I’m currently learning Redis, ZMQ and other message brokers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun facts: I love playing co-op games and peting dogs
