@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Machine Learning based real-time applications with Electron.js, Python, Redis and more
 - 🌱 I’m currently learning Redis, ZMQ and other message brokers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools:
 
